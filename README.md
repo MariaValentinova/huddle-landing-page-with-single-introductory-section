@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: ([https://your-solution-url.com](https://github.com/MariaValentinova/huddle-landing-page-with-single-introductory-section))
+- Live Site URL: ([https://your-live-site-url.com](https://mariavalentinova.github.io/huddle-landing-page-with-single-introductory-section/))
 
 ## My process
 
